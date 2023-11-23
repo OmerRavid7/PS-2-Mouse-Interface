@@ -2,7 +2,7 @@
 This VHDL source code implements a PS/2 mouse interface, operating at a clock frequency of 12 kHz. 
 The design comprises three main components, consolidated in a primary file, and is accompanied by a test bench for verification.
 
- ## Components
+# Components
 # 1. Initialization Component (init)
 The init component initializes the mouse, injecting F6 into the mouse, and synchronizes the clock. 
 This phase sets the foundation for proper communication between the mouse and the controller.
